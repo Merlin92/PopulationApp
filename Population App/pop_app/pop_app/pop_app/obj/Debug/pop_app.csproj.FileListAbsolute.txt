@@ -1,0 +1,9 @@
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\bin\Debug\pop_app.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\bin\Debug\pop_app.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\bin\Debug\pop_app.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\obj\Debug\pop_app.csprojResolveAssemblyReference.cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\obj\Debug\pop_app.Form1.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\obj\Debug\pop_app.Properties.Resources.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\obj\Debug\pop_app.csproj.GenerateResource.Cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\obj\Debug\pop_app.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_5\pop_app\pop_app\pop_app\obj\Debug\pop_app.pdb
